@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+nul
+
+# Screenshots (if not needed in production)
+screenshots_manual/
+
+# Claude configuration (keep local only)
+.claude/
